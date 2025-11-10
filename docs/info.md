@@ -13,7 +13,7 @@ This is a four-bit counter with seven-segment display output. The direction is d
 
 ## How to test
 
-Connect a clock and use input pin 0 to control direction.
+Connect a clock and use input pin 0 to control direction. Seven-segment is reversed with binary point as the MSB.
 
 ## External hardware
 
